@@ -46,9 +46,3 @@ I'm the kind of guy who gets curious about something, digs way too deep into it,
    - 🛠️ I'd rather experiment and learn than just follow instructions.
 
    - 🚀 My motto: if it can be understood, it can probably be improved.
-
-**📫 Reach Me**
-
- - GitHub: @sethun-r
-
- - Email: Sethunrandesherath99@gmail.com
