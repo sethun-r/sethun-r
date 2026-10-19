@@ -2,9 +2,11 @@
 
 **👨‍💻 Who Am I?**
 
- - I'm Sethun an aspiring cybersecurity researcher and Cyber Security undergraduate from Sri Lanka who loves figuring out how things work — sometimes by taking them apart first. 😭🔧
-I'm the kind of guy who gets curious about something, digs way too deep into it, breaks a few things along the way, and comes back with a new project. Whether it's computers, networks, hardware, or software, I love experimenting, building things from scratch, and turning random ideas into something real.
-**I'm curious by nature, a little chaotic by design, and always looking for something new to explore.**
+ - I'm Sethun an aspiring cybersecurity researcher and Cyber Security undergraduate from Sri Lanka who loves figuring out how things work (sometimes by taking them apart first). 😭🔧
+
+ - I'm the kind of guy who gets curious about something, digs way too deep into it, breaks a few things along the way, and comes back with a new project. Whether it's computers, networks, hardware, or software, I love experimenting, building things from scratch, and turning random ideas into something real.
+
+ - **I'm curious by nature, a little chaotic by design, and always looking for something new to explore.**
 
 		
 **🎯 What I'm Working On**
